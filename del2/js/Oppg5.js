@@ -226,7 +226,7 @@ function draw() {
     modelMatrix.setIdentity();//
     // Definerer en viewmatrise (kamera):
     // cuon-utils: Matrix4.prototype.setLookAt = function(eyeX, eyeY, eyeZ, centerX, centerY, centerZ, upX, upY, upZ)
-    var eyeX=5, eyeY=5, eyeZ=30;
+    var eyeX=4, eyeY=4.5, eyeZ=30;
     var lookX=0, lookY=-5, lookZ=0;
     var upX=0, upY=1, upZ=0;
     viewMatrix.setLookAt(eyeX, eyeY, eyeZ, lookX, lookY, lookZ, upX, upY, upZ);
@@ -273,7 +273,7 @@ function draw() {
 
     // Definerer en viewmatrise (kamera):
     // cuon-utils: Matrix4.prototype.setLookAt = function(eyeX, eyeY, eyeZ, centerX, centerY, centerZ, upX, upY, upZ)
-    var eyeX=5, eyeY=5, eyeZ=30;
+    var eyeX=4, eyeY=4.5, eyeZ=30;
     var lookX=0, lookY=-5, lookZ=0;
     var upX=0, upY=1, upZ=0;
     viewMatrix.setLookAt(eyeX, eyeY, eyeZ, lookX, lookY, lookZ, upX, upY, upZ);
