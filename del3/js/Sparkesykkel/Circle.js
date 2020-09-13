@@ -1,6 +1,6 @@
 "use strict";
 /*
-    buffer og draw for et kube.
+    Tegner en sirkel
 */
 class Circle {
     constructor(gl, myCamera, color, yOffset = 0) {

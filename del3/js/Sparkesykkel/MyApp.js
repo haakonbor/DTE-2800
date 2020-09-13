@@ -1,6 +1,6 @@
 "use strict";
 /*
-    Tegner en kubemann vha. Cube-objekter.
+    Tegner en scooter som kan svinge på rattet/hjulene og rulle på hjulene
 */
 
 // Globale variabler: Disse er synlig på tvers av .js filene inkludert i .html-fila.

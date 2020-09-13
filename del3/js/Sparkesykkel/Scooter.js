@@ -1,6 +1,6 @@
 "use strict";
 /*
-    Tegner koordinatsystemet.
+    Tegner en scooter
 */
 class Scooter {
 

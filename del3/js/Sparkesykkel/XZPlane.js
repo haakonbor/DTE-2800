@@ -1,6 +1,6 @@
 "use strict";
 /*
-    buffer og draw for et kube.
+    Tegner et plan i XZ
 */
 class XZPlane {
     constructor(gl, camera, canvas) {
