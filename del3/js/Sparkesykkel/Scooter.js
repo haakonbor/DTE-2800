@@ -9,7 +9,7 @@ class Scooter {
         this.camera = camera;
 
         this.stack = new Stack();
-        // Fire kuber med ulike farger.
+        // Fire kuber med like farger.
         this.cube1 = null;
         this.cube2 = null;
         this.cube3 = null;
@@ -241,92 +241,6 @@ class Scooter {
         modelMatrix.translate(0,-0.1,0);
         modelMatrix.scale(0.8,0.8,0.8);
         this.cylinder7.draw(elapsed, modelMatrix);
-
-
-
-
-
-
-
-
-
-
-        /*
-        // *** Aksling og hjul FORAN - med STYRING:
-        modelMatrix = this.stack.peekMatrix();
-        modelMatrix.translate(-10.5, -1.2, 0);
-        modelMatrix.rotate(this.steeringRot, 0, 1, 0);
-        this.stack.pushMatrix(modelMatrix);
-        //- Aksling:
-        modelMatrix = this.stack.peekMatrix();
-        modelMatrix.translate(0, 0, 0);
-        modelMatrix.scale(0.4,0.4,8);
-        this.cube1.draw(elapsed, modelMatrix);
-        //- Akselbolt:
-        modelMatrix = this.stack.peekMatrix();
-        modelMatrix.translate(0, 1, 0);
-        modelMatrix.scale(0.4,1.6,0.4);
-        this.cube4.draw(elapsed, modelMatrix);
-        //- Venstre hjul:
-        modelMatrix = this.stack.peekMatrix();
-        modelMatrix.translate(0, 0, 8);
-        modelMatrix.rotate(90, 1, 0, 0);
-        modelMatrix.rotate(this.wheelRot, 0, 1, 0);    //egen akse!!
-        modelMatrix.scale(2.5,1,2.5);
-        this.circle.draw(elapsed, modelMatrix);
-        //- Høyre hjul:
-        modelMatrix = this.stack.peekMatrix();
-        modelMatrix.translate(0, 0, -8);
-        modelMatrix.rotate(90, 1, 0, 0);
-        modelMatrix.rotate(this.wheelRot, 0, 1, 0);    //egen akse!!
-        modelMatrix.scale(2.5,1,2.5);
-        this.circle.draw(elapsed, modelMatrix);
-
-        this.stack.popMatrix();    // Ta utgangspunkt i "rota" igjen.
-
-        // *** Aksling og hjul BAK:
-        modelMatrix = this.stack.peekMatrix();
-        modelMatrix.translate(10.5, -1.2, 0);
-        this.stack.pushMatrix(modelMatrix);
-        //- Aksling:
-        modelMatrix = this.stack.peekMatrix();
-        modelMatrix.translate(0, 0, 0);
-        modelMatrix.scale(0.4,0.4,8);
-        this.cube1.draw(elapsed, modelMatrix);
-        //- Akselbolt-1:
-        modelMatrix = this.stack.peekMatrix();
-        modelMatrix.translate(0, 1, 3.5);
-        modelMatrix.scale(0.4,1.6,0.4);
-        this.cube4.draw(elapsed, modelMatrix);
-        //- Akselbolt-2:
-        modelMatrix = this.stack.peekMatrix();
-        modelMatrix.translate(0, 1, -3.5);
-        modelMatrix.scale(0.4,1.6,0.4);
-        this.cube4.draw(elapsed, modelMatrix);
-        //- Venstre hjul:
-        modelMatrix = this.stack.peekMatrix();
-        modelMatrix.translate(0, 0, 8);
-        modelMatrix.rotate(90, 1, 0, 0);
-        modelMatrix.rotate(this.wheelRot, 0, 1, 0);    //egen akse!!
-        modelMatrix.scale(2.5,1,2.5);
-        this.circle.draw(elapsed, modelMatrix);
-        //- Høyre hjul:
-        modelMatrix = this.stack.peekMatrix();
-        modelMatrix.translate(0, 0, -8);
-        modelMatrix.rotate(90, 1, 0, 0);
-        modelMatrix.rotate(this.wheelRot, 0, 1, 0);    //egen akse!!
-        modelMatrix.scale(2.5,1,2.5);
-        this.circle.draw(elapsed, modelMatrix);
-
-        this.stack.popMatrix();    // Ta utgangspunkt i "rota" igjen.
-
-        //- Boks:
-        modelMatrix = this.stack.peekMatrix();
-        modelMatrix.translate(15, 0.1, 0);
-        modelMatrix.rotate(this.backboxRotation, 0, 1, 0);
-        this.stack.pushMatrix(modelMatrix);
-        this.cube4.draw(elapsed, modelMatrix);
-        */
 
         //Tømmer stacken ...:
         this.stack.empty();

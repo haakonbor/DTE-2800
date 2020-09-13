@@ -15,7 +15,7 @@ class Stack {
 			throw "Feil i popMatrix - matrisestacken er tom!";
 		return this.matrixStack.pop();
 	}
-a
+
 	//Leser og returnerer toppmatrisa. NB! Fjerner ikke:
 	peekMatrix() {
 		if (this.matrixStack.length == 0)

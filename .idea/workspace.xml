@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08199f76-d726-4cbf-9a91-d94e9c138c56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/del3.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/del3/js/Sparkesykkel/MyApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/del3/js/Sparkesykkel/MyApp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/del3/js/Sparkesykkel/Scooter.js" beforeDir="false" afterPath="$PROJECT_DIR$/del3/js/Sparkesykkel/Scooter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/del3/js/Sparkesykkel/Stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/del3/js/Sparkesykkel/Stack.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +68,7 @@
       <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\del3\js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.Sparkesykkel.html">
     <configuration name="Kubemann1oo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/del3/Kubemann1oo.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -76,8 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Sparkesykkel.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Kubemann1oo.html" />
       </list>
     </recent_temporary>
@@ -94,7 +98,7 @@
       <workItem from="1599223555096" duration="57000" />
       <workItem from="1599841681300" duration="2611000" />
       <workItem from="1599920456889" duration="31022000" />
-      <workItem from="1600001343918" duration="6886000" />
+      <workItem from="1600001343918" duration="8368000" />
     </task>
     <servers />
   </component>

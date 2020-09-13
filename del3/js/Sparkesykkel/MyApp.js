@@ -144,22 +144,6 @@ class MyApp {
         modelMatrix1.translate(3, 3.5, -5);
         this.scooter.draw(elapsed, modelMatrix1);
 
-
-        /*
-        let modelMatrix2 = new Matrix4();
-        modelMatrix2.setIdentity();
-        modelMatrix2.translate(3,10,2);
-        modelMatrix2.rotate(30,0,1,0);
-        modelMatrix2.scale(2,2,2);
-
-        this.cylinder.draw(elapsed, modelMatrix2);
-
-        modelMatrix2.setIdentity();
-        modelMatrix2.translate(-3,10,2);
-        modelMatrix2.rotate(30,0,1,0);
-        modelMatrix2.scale(2,2,2);
-        this.cylinder.draw(elapsed, modelMatrix2);
-        */
         // BRUKERINPUT;
         this.handleKeys(elapsed);
 
