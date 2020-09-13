@@ -20,9 +20,120 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08199f76-d726-4cbf-9a91-d94e9c138c56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/del3/Oppg2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/del3/js/Oppg2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/del3/Sparkesykkel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/del3/js/Sparkesykkel/Camera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/del3/js/Sparkesykkel/Circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/del3/js/Sparkesykkel/Coord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/del3/js/Sparkesykkel/Cube.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/del3/js/Sparkesykkel/Cylinder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/del3/js/Sparkesykkel/MyApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/del3/js/Sparkesykkel/Scooter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/del3/js/Sparkesykkel/Stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/del3/js/Sparkesykkel/XZPlane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/.babelrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/.size-snapshot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/BUILDING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/TESTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/common.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-Bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-Bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-BoldItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-BoldItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-BoldItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-Italic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-Italic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-Italic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-Light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-Light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-LightItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-LightItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-LightItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/fonts/OpenSans-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/mat2.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/mat2d.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/mat3.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/mat4.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/module-glMatrix.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/module-mat2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/module-mat2d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/module-mat3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/module-mat4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/module-quat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/module-quat2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/module-vec2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/module-vec3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/module-vec4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/quat.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/quat2.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/scripts/linenumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/scripts/prettify/Apache-License-2.0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/scripts/prettify/lang-css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/scripts/prettify/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/styles/jsdoc-default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/styles/prettify-jsdoc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/styles/prettify-tomorrow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/vec2.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/vec3.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/docs/vec4.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/jsdoc-template/allclasses.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/jsdoc-template/allfiles.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/jsdoc-template/class.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/jsdoc-template/index.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/jsdoc-template/publish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/jsdoc-template/static/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/jsdoc-template/static/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/jsdoc-template/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/jsdoc-template/symbol.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/jsdoc.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/rollup.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/spec/gl-matrix/common-spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/spec/gl-matrix/mat2-spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/spec/gl-matrix/mat2d-spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/spec/gl-matrix/mat3-spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/spec/gl-matrix/mat4-spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/spec/gl-matrix/quat-spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/spec/gl-matrix/quat2-spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/spec/gl-matrix/vec2-spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/spec/gl-matrix/vec3-spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/spec/gl-matrix/vec4-spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/spec/gl-matrix/worker-spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/spec/helpers/spec-helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/spec/jasmine.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/src/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/src/mat2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/src/mat2d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/src/mat3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/src/mat4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/src/quat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/src/quat2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/src/types.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/src/vec2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/src/vec3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/src/vec4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/utils/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/utils/bundle-dts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/utils/license-template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-master/utils/update-license-version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gl-matrix-min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/del3/Oppg2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/del3/js/Oppg2.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wfa-helpers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,16 +153,48 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1h0rMvhPND2wAZB7ssc7kE1VTAQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../Documents and Settings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/del3" />
+    <property name="ts.external.directory.path" value="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\lib\gl-matrix-master\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\del3\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\del3" />
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\del3\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="Kubemann1oo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/del3/Kubemann1oo.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Sparkesykkel.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/del3/Sparkesykkel.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Sparkesykkel.html" />
+        <item itemvalue="JavaScript Debug.Kubemann1oo.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,6 +207,8 @@
       <workItem from="1599158809003" duration="877000" />
       <workItem from="1599223555096" duration="57000" />
       <workItem from="1599841681300" duration="2611000" />
+      <workItem from="1599920456889" duration="31022000" />
+      <workItem from="1600001343918" duration="6478000" />
     </task>
     <servers />
   </component>
@@ -80,11 +225,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="933" y="170" key="FileChooserDialogImpl" timestamp="1599223606876">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599223606876" />
+    <state x="1018" y="0" width="1037" height="1118" key="dock-window-1" timestamp="1599953081523">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1018" y="0" width="1037" height="1118" key="dock-window-1/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1599953081523" />
   </component>
 </project>
