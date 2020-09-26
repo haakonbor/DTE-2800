@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93d05010-c3c4-4a14-956c-cecf988fb120" name="Default Changelist" comment="Drone almost complete">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Three/Drone/js/Drone.js" beforeDir="false" afterPath="$PROJECT_DIR$/Three/Drone/js/Drone.js" afterDir="false" />
-    </list>
+    <list default="true" id="93d05010-c3c4-4a14-956c-cecf988fb120" name="Default Changelist" comment="Drone fully functional" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +84,7 @@
       <updated>1600988327332</updated>
       <workItem from="1600988328794" duration="3808000" />
       <workItem from="1600993055604" duration="4492000" />
-      <workItem from="1601076046746" duration="17101000" />
+      <workItem from="1601076046746" duration="17431000" />
     </task>
     <task id="LOCAL−00001" summary="Misc.">
       <created>1601000054792</created>
@@ -101,7 +98,13 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1601098286013</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Drone fully functional">
+      <created>1601103738502</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1601103738502</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +126,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Misc." />
     <MESSAGE value="Drone almost complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Drone almost complete" />
+    <MESSAGE value="Drone fully functional" />
+    <option name="LAST_COMMIT_MESSAGE" value="Drone fully functional" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1106" height="219" key="GridCell.Tab.0.bottom" timestamp="1601000520073">
