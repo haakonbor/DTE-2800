@@ -52,7 +52,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Drone.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="BoxMan1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del1-2020/BoxMan1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -65,8 +65,12 @@
     <configuration name="demo4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del0intro-2019/demo4.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Drone.html" />
         <item itemvalue="JavaScript Debug.Heli3.html" />
         <item itemvalue="JavaScript Debug.BoxMan1.html" />
