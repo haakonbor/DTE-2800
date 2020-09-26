@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93d05010-c3c4-4a14-956c-cecf988fb120" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Three/Drone/resources/aluminium.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/Drone/resources/lens.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/Drone/resources/plasticw.jpg" afterDir="false" />
+    <list default="true" id="93d05010-c3c4-4a14-956c-cecf988fb120" name="Default Changelist" comment="Drone almost complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Three/Drone/js/Drone.js" beforeDir="false" afterPath="$PROJECT_DIR$/Three/Drone/js/Drone.js" afterDir="false" />
     </list>
@@ -55,6 +52,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.Drone.html">
@@ -89,7 +87,7 @@
       <updated>1600988327332</updated>
       <workItem from="1600988328794" duration="3808000" />
       <workItem from="1600993055604" duration="4492000" />
-      <workItem from="1601076046746" duration="13157000" />
+      <workItem from="1601076046746" duration="17101000" />
     </task>
     <task id="LOCAL−00001" summary="Misc.">
       <created>1601000054792</created>
@@ -97,7 +95,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1601000054792</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Drone almost complete">
+      <created>1601098286013</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1601098286013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +122,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Misc." />
-    <option name="LAST_COMMIT_MESSAGE" value="Misc." />
+    <MESSAGE value="Drone almost complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Drone almost complete" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1106" height="219" key="GridCell.Tab.0.bottom" timestamp="1601000520073">
@@ -193,5 +198,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1078" y="0" width="976" height="1118" key="dock-window-1/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601077881195" />
+    <state x="229" y="262" key="run.anything.popup" timestamp="1601101217784">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="229" y="262" key="run.anything.popup/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601101217784" />
   </component>
 </project>

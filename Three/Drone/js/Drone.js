@@ -11,11 +11,12 @@ let previousTime = 0.0;
 
 // Kontroller
 let controls;
+let cameraAim = new THREE.Vector3(0,0,0);
 
 // Drone
 let drone;
 let propellerSpeed = 0.0;
-let speedHelper;
+let cameraSwivel = {vertical:Math.PI/6, horizontal:0};
 
 
 // Tastetrykk
@@ -210,7 +211,7 @@ function addDroneModel() {
     cameraBodyMesh.castShadow = true;
     cameraBodyMesh.name = "cameraBody";
     cameraBodyMesh.position.x = 0;
-    cameraBodyMesh.position.y = -15;
+    cameraBodyMesh.position.y = -16;
     cameraBodyMesh.position.z = 0;
     cameraBodyMesh.rotation.x = Math.PI / 8;
     drone.add(cameraBodyMesh);
@@ -222,10 +223,10 @@ function addDroneModel() {
     cameraLensMesh.castShadow = true;
     cameraLensMesh.name = "cameraLens";
     cameraLensMesh.position.x = 0;
-    cameraLensMesh.position.y = -17;
+    cameraLensMesh.position.y = 0;
     cameraLensMesh.position.z = 5;
-    cameraLensMesh.rotation.x = Math.PI / 2 + Math.PI/8;
-    drone.add(cameraLensMesh);
+    cameraLensMesh.rotation.x = Math.PI / 2;
+    cameraBodyMesh.add(cameraLensMesh);
 
     let lensTexture = textureLoader.load('resources/lens.png');
 
@@ -234,10 +235,11 @@ function addDroneModel() {
     let cameraGlassMesh = new THREE.Mesh(cameraGlassGeometry, cameraGlassMaterial);
     cameraGlassMesh.name = "cameraGlass";
     cameraGlassMesh.position.x = 0;
-    cameraGlassMesh.position.y = -17.75;
-    cameraGlassMesh.position.z = 7.1;
-    cameraGlassMesh.rotation.x = Math.PI / 8;
-    drone.add(cameraGlassMesh);
+    cameraGlassMesh.position.y = 2.1;
+    cameraGlassMesh.position.z = 0;
+    cameraGlassMesh.rotation.x = Math.PI / 2;
+    cameraGlassMesh.rotation.y = Math.PI;
+    cameraLensMesh.add(cameraGlassMesh);
 
     //...
 
@@ -273,7 +275,7 @@ function addControls() {
     controls.staticMoving = true;
     controls.dynamicDampingFactor = 0.3;
 
-    controls.target = new THREE.Vector3(0,50,0);
+    controls.target = new THREE.Vector3(drone.position.x,drone.position.y,drone.position.z);
 }
 
 function handleKeyUp(event) {
@@ -301,14 +303,23 @@ function onWindowResize() {
 }
 
 function checkKeyPress() {
-    if(currentKeys[71]) // G
+    if(currentKeys[71] && propellerSpeed < 70) // G
         propellerSpeed += 0.2;
 
     else if(propellerSpeed > 0.0)
         propellerSpeed -= 0.2;
 
-    else
-        propellerSpeed = 0.0;
+    if(currentKeys[83] && cameraSwivel["vertical"] < Math.PI / 3) // S
+        cameraSwivel["vertical"] += 0.005;
+
+    if(currentKeys[87] && cameraSwivel["vertical"] > 0) // W
+        cameraSwivel["vertical"] -= 0.005;
+
+    if(currentKeys[65] && cameraSwivel["horizontal"] < Math.PI / 6) // A
+        cameraSwivel["horizontal"] += 0.005;
+
+    if(currentKeys[68] && cameraSwivel["horizontal"] > - Math.PI / 6) // D
+        cameraSwivel["horizontal"] -= 0.005;
 }
 
 function animate(currentTime) {
@@ -344,9 +355,17 @@ function animate(currentTime) {
     let leftFrontPropeller = drone.getObjectByName("leftFrontPropeller", true);
     if (leftFrontPropeller != undefined)
         leftFrontPropeller.rotation.z = angle;
+
+    let cameraBody = drone.getObjectByName("cameraBody", true);
+    if (cameraBody != undefined) {
+        cameraBody.rotation.x = cameraSwivel["vertical"];
+        cameraBody.rotation.y = cameraSwivel["horizontal"];
+    }
+
+
     // ...
 
-    if (propellerSpeed > 50 && drone.position.y <= 100)
+    if (propellerSpeed > 50 && drone.position.y <= 150)
         drone.position.y += 0.3;
 
     else if (propellerSpeed < 50 && drone.position.y > 30)
@@ -355,6 +374,10 @@ function animate(currentTime) {
     checkKeyPress();
 
     // Oppdaterer trackball kontrollen
+    cameraAim.x = drone.position.x;
+    cameraAim.y = drone.position.y;
+    cameraAim.z = drone.position.z;
+    controls.target = cameraAim;
     controls.update();
 
     // Renderer
