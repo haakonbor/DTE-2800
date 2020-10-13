@@ -19,7 +19,67 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93d05010-c3c4-4a14-956c-cecf988fb120" name="Default Changelist" comment="Drone fully functional" />
+    <list default="true" id="93d05010-c3c4-4a14-956c-cecf988fb120" name="Default Changelist" comment="Directory name fix">
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/.idea/Del3_4_5_6_7-KubemannOO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/Bil1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/Bil1oo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/Kubemann1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/Kubemann1oo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/coord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/cube.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/mainapp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/xzplane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/Camera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/Car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/Circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/Coord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/Cube.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/MyApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/Stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/XZPlane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/MyCoord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/coord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/cube.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/cubeman.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/mainapp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/xzplane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/Camera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/Coord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/Cube.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/CubeMan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/MyApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/Stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/XZPlane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/lib/cuon-matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/lib/cuon-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/lib/gl-matrix-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/lib/webgl-debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/lib/webgl-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/lib/wfa-helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeAmbient1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeAmbient2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeDiffusePointLight1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeDiffuseSun1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/SpecularCubeGourad1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/XZPlaneGouradPhongShading1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/CubeAmbient1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/CubeAmbient2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/CubeDiffusePointLight1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/CubeDiffuseSun1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/SpecularCubeGourad1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/XZPlaneGouradPhongShading1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +112,10 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.Bil1oo.html">
+    <configuration name="Bil1oo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/Bil1oo.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="BoxMan1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del1-2020/BoxMan1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -62,19 +125,16 @@
     <configuration name="Heli3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del2-2020/Heli3.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="demo4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del0intro-2019/demo4.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Bil1oo.html" />
         <item itemvalue="JavaScript Debug.Drone.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Heli3.html" />
         <item itemvalue="JavaScript Debug.BoxMan1.html" />
-        <item itemvalue="JavaScript Debug.demo4.html" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +148,9 @@
       <updated>1600988327332</updated>
       <workItem from="1600988328794" duration="3808000" />
       <workItem from="1600993055604" duration="4492000" />
-      <workItem from="1601076046746" duration="17431000" />
+      <workItem from="1601076046746" duration="17840000" />
+      <workItem from="1601104356835" duration="623000" />
+      <workItem from="1602628271735" duration="337000" />
     </task>
     <task id="LOCAL−00001" summary="Misc.">
       <created>1601000054792</created>
@@ -108,7 +170,19 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1601103738502</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Fixed index html">
+      <created>1601103878007</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1601103878007</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Directory name fix">
+      <created>1601104081391</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1601104081391</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +205,9 @@
     <MESSAGE value="Misc." />
     <MESSAGE value="Drone almost complete" />
     <MESSAGE value="Drone fully functional" />
-    <option name="LAST_COMMIT_MESSAGE" value="Drone fully functional" />
+    <MESSAGE value="Fixed index html" />
+    <MESSAGE value="Directory name fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Directory name fix" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1106" height="219" key="GridCell.Tab.0.bottom" timestamp="1601000520073">
@@ -202,10 +278,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="158" y="292" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000069248" />
-    <state x="1078" y="0" width="976" height="1118" key="dock-window-1" timestamp="1601077881195">
+    <state x="1078" y="0" width="976" height="1118" key="dock-window-1" timestamp="1601104985374">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1078" y="0" width="976" height="1118" key="dock-window-1/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601077881195" />
+    <state x="1078" y="0" width="976" height="1118" key="dock-window-1/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601104985374" />
     <state x="229" y="262" key="run.anything.popup" timestamp="1601101217784">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
