@@ -333,7 +333,7 @@ function drawCube() {
 function draw(currentTime) {
 
 	//Sørger for at draw kalles p� nytt:
-	requestAnimFrame(draw);
+	requestAnimationFrame(draw);
 
 	// GJENNOMSIKTIGHET:
 	// Aktiverer fargeblanding (&indirekte gjennomsiktighet):

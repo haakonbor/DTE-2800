@@ -39,12 +39,12 @@
 		<li>Roter scenen vha. WASD</li>
 	</ul>
 
-	<script src="../lib/webgl-utils.js"></script>
-	<script src="../lib/webgl-debug.js"></script>
-	<script src="../lib/cuon-utils.js"></script>
-	<script src="../lib/cuon-matrix.js"></script>
-	<script src="../lib/gl-matrix-min.js"></script>
-	<script src="../lib/wfa-helpers.js"></script>
+	<script src="../../lib/webgl-utils.js"></script>
+	<script src="../../lib/webgl-debug.js"></script>
+	<script src="../../lib/cuon-utils.js"></script>
+	<script src="../../lib/cuon-matrix.js"></script>
+	<script src="../../lib/gl-matrix-min.js"></script>
+	<script src="../../lib/wfa-helpers.js"></script>
 	<!-- COORD SHADERS -->
 	<script id="coord-vertex-shader" type="x-shader/x-vertex">
         attribute vec3 a_Position;
@@ -89,10 +89,10 @@
 			vec3 lightDirectionNorm = normalize(u_lightDirection);
 			//Beregn prikkprodukt av lysvektor og normalvektor
 			//for diffus belysning:
-			float diffusLightWeightning = max(dot(normal, lightDirectionNorm), 0.0);
+			float diffuseLightWeighting = max(dot(normal, lightDirectionNorm), 0.0);
 
 			//Summer alle refleksjonskomponenter og send til fragmentshader:
-			v_LightWeighting = u_ambientLightColor + (u_diffuseLightColor * diffusLightWeightning);
+			v_LightWeighting = u_ambientLightColor + (u_diffuseLightColor * diffuseLightWeighting);
 
 			//Transformer vertex:
 			gl_Position = u_projectionMatrix * u_modelviewMatrix * vec4(a_Position, 1.0);

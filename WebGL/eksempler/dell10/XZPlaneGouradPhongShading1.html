@@ -26,12 +26,12 @@
 		Denne nettleseren støtter ikke "canvas"-elementet!
 	</canvas>
 
-	<script src="../lib/webgl-utils.js"></script>
-	<script src="../lib/webgl-debug.js"></script>
-	<script src="../lib/cuon-utils.js"></script>
-	<script src="../lib/cuon-matrix.js"></script>
-	<script src="../lib/gl-matrix-min.js"></script>
-	<script src="../lib/wfa-helpers.js"></script>
+	<script src="../../lib/webgl-utils.js"></script>
+	<script src="../../lib/webgl-debug.js"></script>
+	<script src="../../lib/cuon-utils.js"></script>
+	<script src="../../lib/cuon-matrix.js"></script>
+	<script src="../../lib/gl-matrix-min.js"></script>
+	<script src="../../lib/wfa-helpers.js"></script>
 
 	<!-- COORD SHADERS -->
 	<script id="coord-vertex-shader" type="x-shader/x-vertex">
@@ -60,7 +60,6 @@
 
 		uniform mat4 u_modelMatrix;		//model/world-matrisa brukes til lyskalk.
 		uniform mat3 u_normalMatrix;	//brukes til lyskalk. Transformerer normalvektoren.
-		///uniform mat4 u_normalMatrix;	//brukes til lyskalk. Transformerer normalvektoren.
 		uniform mat4 u_modelviewMatrix;
 		uniform mat4 u_projectionMatrix;
 

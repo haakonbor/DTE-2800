@@ -20,65 +20,182 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93d05010-c3c4-4a14-956c-cecf988fb120" name="Default Changelist" comment="Directory name fix">
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/.idea/Del3_4_5_6_7-KubemannOO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/Bil1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/Bil1oo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/Kubemann1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/Kubemann1oo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/car.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/circle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/coord.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/cube.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/mainapp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1/xzplane.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/Camera.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/Car.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/Circle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/Coord.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/Cube.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/MyApp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/Stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Bil1oo/XZPlane.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/MyCoord.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/coord.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/cube.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/cubeman.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/mainapp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1/xzplane.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/Camera.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/Coord.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/Cube.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/CubeMan.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/MyApp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/Stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/js/Kubemann1oo/XZPlane.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/lib/cuon-matrix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/lib/cuon-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/lib/gl-matrix-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/lib/webgl-debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/lib/webgl-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/lib/wfa-helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeAmbient1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeAmbient2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeDiffusePointLight1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeDiffuseSun1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/SpecularCubeGourad1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/XZPlaneGouradPhongShading1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/CubeAmbient1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/CubeAmbient2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/CubeDiffusePointLight1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/CubeDiffuseSun1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/SpecularCubeGourad1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/XZPlaneGouradPhongShading1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/DiceAndCoord1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/MultiTexturedSquareAndCoord1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/TextureTiledSquareAndCoord1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/TexturedColoredSquare1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/TexturedCubeAndCoord1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/TexturedSquare1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/TexturedSquareAndCoord1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/TexturedSquareNPOT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/js/DiceAndCoord1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/js/MultiTexturedSquareAndCoord1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/js/TextureTiledSquareAndCoord1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/js/TexturedColoredSquare1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/js/TexturedCubeAndCoord1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/js/TexturedSquare1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/js/TexturedSquareAndCoord1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/js/TexturedSquareNPOT1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/bird1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/bricks1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/bricks1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/dice1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/dice1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/dice2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/leaves.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/leaves.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/rings1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/spot1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/star.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/stonewall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/stonewall_jpg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/tile1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/tile2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/tree1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/eksempler/del8_9/textures/tree1_npot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/functional/Village.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/functional/js/Camera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/functional/js/Car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/functional/js/Circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/functional/js/Coord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/functional/js/Cube.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/functional/js/Light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/functional/js/MainApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/functional/js/Stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/functional/js/XZPlane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/VillageOOP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/Camera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/Car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/Circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/Cube.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/Cylinder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/House.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/Light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/MainApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/Stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/Triangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/XZPlane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/textures/gress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/textures/hustekstur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/textures/hustekstur_mål.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/textures/metall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/textures/nabolag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebGL/karaktergivende/textures/tre.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/del3/Sparkesykkel.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/del3/Sparkesykkel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/Bil1.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/Bil1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeAmbient1.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeAmbient1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeDiffusePointLight1.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeDiffusePointLight1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeDiffuseSun1.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/CubeDiffuseSun1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/eksempler/dell10/XZPlaneGouradPhongShading1.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/XZPlaneGouradPhongShading1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/CubeAmbient1.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/eksempler/dell10/js/CubeAmbient1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/cuon-matrix.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/lib/cuon-matrix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/cuon-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/lib/cuon-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/.babelrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/.size-snapshot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/BUILDING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/TESTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/VERSION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/common.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-Bold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-Bold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-Bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-BoldItalic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-BoldItalic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-BoldItalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-Italic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-Italic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-Italic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-Light-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-Light-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-Light-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-LightItalic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-LightItalic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-LightItalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-Regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-Regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/fonts/OpenSans-Regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/mat2.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/mat2d.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/mat3.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/mat4.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/module-glMatrix.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/module-mat2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/module-mat2d.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/module-mat3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/module-mat4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/module-quat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/module-quat2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/module-vec2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/module-vec3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/module-vec4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/quat.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/quat2.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/scripts/linenumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/scripts/prettify/Apache-License-2.0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/scripts/prettify/lang-css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/scripts/prettify/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/styles/jsdoc-default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/styles/prettify-jsdoc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/styles/prettify-tomorrow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/vec2.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/vec3.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/docs/vec4.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/jsdoc-template/allclasses.tmpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/jsdoc-template/allfiles.tmpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/jsdoc-template/class.tmpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/jsdoc-template/index.tmpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/jsdoc-template/publish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/jsdoc-template/static/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/jsdoc-template/static/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/jsdoc-template/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/jsdoc-template/symbol.tmpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/jsdoc.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/rollup.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/spec/gl-matrix/common-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/spec/gl-matrix/mat2-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/spec/gl-matrix/mat2d-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/spec/gl-matrix/mat3-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/spec/gl-matrix/mat4-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/spec/gl-matrix/quat-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/spec/gl-matrix/quat2-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/spec/gl-matrix/vec2-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/spec/gl-matrix/vec3-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/spec/gl-matrix/vec4-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/spec/gl-matrix/worker-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/spec/helpers/spec-helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/spec/jasmine.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/src/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/src/mat2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/src/mat2d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/src/mat3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/src/mat4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/src/quat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/src/quat2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/src/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/src/vec2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/src/vec3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/src/vec4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/utils/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/utils/bundle-dts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/utils/license-template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-master/utils/update-license-version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/gl-matrix-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/lib/gl-matrix-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/webgl-debug.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/lib/webgl-debug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/webgl-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/lib/webgl-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/lib/wfa-helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/lib/wfa-helpers.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,32 +226,44 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebGL/karaktergivende/js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Bil1oo.html">
-    <configuration name="Bil1oo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/Bil1oo.html" useBuiltInWebServerPort="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\WebGL\karaktergivende\objectoriented\js" />
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\WebGL\karaktergivende\object oriented" />
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\WebGL\karaktergivende\functional" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\WebGL\karaktergivende\js" />
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\WebGL\karaktergivende" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.VillageOOP.html (1)">
+    <configuration name="Bil1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/WebGL/eksempler/Del3_4_5_6_7-KubemannOO/Bil1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="BoxMan1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del1-2020/BoxMan1.html" useBuiltInWebServerPort="true">
+    <configuration name="TextureTiledSquareAndCoord1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/WebGL/eksempler/del8_9/TextureTiledSquareAndCoord1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Drone.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/Drone/Drone.html" useBuiltInWebServerPort="true">
+    <configuration name="VillageOOP.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/WebGL/karaktergivende/objectoriented/VillageOOP.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Heli3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del2-2020/Heli3.html" useBuiltInWebServerPort="true">
+    <configuration name="VillageOOP.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/WebGL/karaktergivende/object oriented/VillageOOP.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/index.html" useBuiltInWebServerPort="true">
+    <configuration name="Village.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/WebGL/karaktergivende/functional/Village.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Bil1oo.html" />
-        <item itemvalue="JavaScript Debug.Drone.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.Heli3.html" />
-        <item itemvalue="JavaScript Debug.BoxMan1.html" />
+        <item itemvalue="JavaScript Debug.VillageOOP.html (1)" />
+        <item itemvalue="JavaScript Debug.Village.html" />
+        <item itemvalue="JavaScript Debug.VillageOOP.html" />
+        <item itemvalue="JavaScript Debug.Bil1.html" />
+        <item itemvalue="JavaScript Debug.TextureTiledSquareAndCoord1.html" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +279,11 @@
       <workItem from="1600993055604" duration="4492000" />
       <workItem from="1601076046746" duration="17840000" />
       <workItem from="1601104356835" duration="623000" />
-      <workItem from="1602628271735" duration="337000" />
+      <workItem from="1602628271735" duration="15291000" />
+      <workItem from="1602714437659" duration="463000" />
+      <workItem from="1602714939965" duration="10487000" />
+      <workItem from="1602801577332" duration="39361000" />
+      <workItem from="1602960191878" duration="13463000" />
     </task>
     <task id="LOCAL−00001" summary="Misc.">
       <created>1601000054792</created>
@@ -210,6 +343,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Directory name fix" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="141" y="238" key="#Inspections" timestamp="1602817163061">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="141" y="238" key="#Inspections/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1602817163061" />
+    <state x="705" y="292" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602714885760">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="705" y="292" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1602714885760" />
     <state width="1106" height="219" key="GridCell.Tab.0.bottom" timestamp="1601000520073">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -278,13 +419,17 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="158" y="292" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000069248" />
-    <state x="1078" y="0" width="976" height="1118" key="dock-window-1" timestamp="1601104985374">
+    <state x="1141" y="0" width="914" height="1118" key="dock-window-1" timestamp="1602971210202">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1078" y="0" width="976" height="1118" key="dock-window-1/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601104985374" />
+    <state x="1141" y="0" width="914" height="1118" key="dock-window-1/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1602971210202" />
     <state x="229" y="262" key="run.anything.popup" timestamp="1601101217784">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="229" y="262" key="run.anything.popup/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601101217784" />
+    <state x="686" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1602965737985">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="686" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1602965737985" />
   </component>
 </project>
