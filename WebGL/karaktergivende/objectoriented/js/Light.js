@@ -107,10 +107,10 @@ class LightSource {
             this.pointLightPos.y -= 2;
         }
         //z-pos
-        if (currentlyPressedKeys[78]) {    //H
+        if (currentlyPressedKeys[78]) {    //N
             this.pointLightPos.z += 2;
         }
-        if (currentlyPressedKeys[77]) {	//J
+        if (currentlyPressedKeys[77]) {	//M
             this.pointLightPos.z -= 2;
         }
     }

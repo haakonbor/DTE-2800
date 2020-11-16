@@ -3,7 +3,7 @@
  */
 import * as THREE from './three/build/three.module.js';
 
-export const SIZE = 1000;
+const SIZE = 1000;
 
 //Koordinatsystemet:
 export function addCoordSystem(scene) {

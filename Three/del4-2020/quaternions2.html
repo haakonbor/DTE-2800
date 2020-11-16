@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+	<title>Quaterions - demo</title>
+	<meta charset="UTF-8">
+	<style>
+		body {
+			color: #61443e;
+			font-family:Monospace;
+			font-size:23px;
+			text-align:center;
+			background-color: #bfd1e5;
+			margin: 0px;
+			overflow: hidden;
+		}
+		#info {
+			position: absolute;
+			top: 0px; width: 100%;
+			padding: 5px;
+		}
+		a {
+			color: #a06851;
+		}
+	</style>
+</head>
+<body>
+		<H3>Kvaterniondemo:</H3>
+		Rotasjoner basert på: <b><span id="rotation">--</span></b><br>
+		(Trykk space for å endre.)
+	</div>
+	<canvas id="mycanvas" width="1400" height="1200">
+		Denne nettleseren støtter ikke canvas-elementet!
+	</canvas>
+
+	<script type="module">
+		'use strict';
+		import {main} from "./js/quaternions2.js";
+		main();
+	</script>
+</body>
+</html>
