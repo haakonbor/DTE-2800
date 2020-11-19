@@ -1,6 +1,6 @@
 "use strict";
 
-let N_CARS = 2
+let N_CARS = 3
 let N_HOUSES = 5
 
 // Debug funksjoner hentet fra: https://www.khronos.org/webgl/wiki/Debugging
