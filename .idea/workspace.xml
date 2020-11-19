@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93d05010-c3c4-4a14-956c-cecf988fb120" name="Default Changelist" comment="Directory name fix">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/MainApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/MainApp.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +114,7 @@
       <workItem from="1603038658889" duration="5369000" />
       <workItem from="1605212840879" duration="7784000" />
       <workItem from="1605514474756" duration="5636000" />
-      <workItem from="1605764486914" duration="119000" />
+      <workItem from="1605764486914" duration="439000" />
     </task>
     <task id="LOCAL−00001" summary="Misc.">
       <created>1601000054792</created>
