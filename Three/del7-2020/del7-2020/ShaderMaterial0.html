@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="nb">
+	<head>
+		<title>Bruk av ShaderMaterial, avansert kule ...</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<canvas id="webgl" >
+			Denne nettleseren støtter ikke canvas-elementet!
+		</canvas>
+		<script type="module">
+			'use strict';
+			import {main} from "./js/ShaderMaterial0.js";
+			main();
+		</script>
+		<!-- SHADERE FRA https://threejs.org/examples/webgl_custom_attributes.html -->
+		<!-- NB! shaderen utvides automatisk med variablene position, normal & color. Vi trenger ikke sende inn disse. -->
+		<script type="x-shader/x-vertex" id="vertexshader">
+			uniform float amplitude;
+			attribute float displacement;
+
+			varying vec3 vNormal;
+			varying vec2 vUv;
+
+			void main() {
+				vNormal = normal;
+				vUv = ( 0.5 + amplitude ) * uv + vec2( amplitude );
+				vec3 newPosition = position + amplitude * normal * vec3( displacement );
+				gl_Position = projectionMatrix * modelViewMatrix * vec4( newPosition, 1.0 );
+			}
+		</script>
+
+		<script type="x-shader/x-fragment" id="fragmentshader">
+			varying vec3 vNormal;
+			varying vec2 vUv;
+
+			uniform vec3 color;
+			uniform sampler2D texture;
+
+			void main() {
+
+				vec3 light = vec3( 0.5, 0.2, 1.0 );
+				light = normalize( light );
+
+				float dProd = dot( vNormal, light ) * 0.5 + 0.5;
+
+				vec4 tcolor = texture2D( texture, vUv );
+				vec4 gray = vec4( vec3( tcolor.r * 0.3 + tcolor.g * 0.59 + tcolor.b * 0.11 ), 1.0 );
+
+				gl_FragColor = gray * vec4( vec3( dProd ) * vec3( color ), 1.0 );
+			}
+		</script>
+	</body>
+</html>

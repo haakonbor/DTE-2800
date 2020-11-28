@@ -20,7 +20,169 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93d05010-c3c4-4a14-956c-cecf988fb120" name="Default Changelist" comment="Directory name fix">
-      <change beforePath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/MainApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/karaktergivende/objectoriented/js/MainApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/Cow7.glb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/mantis/scene.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/mantis/scene.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/mantis/textures/lambert1_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/mantis/textures/lambert1_metallicRoughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/mantis/textures/lambert1_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/pc_nightmare_mushroom/scene.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/pc_nightmare_mushroom/scene.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/pc_nightmare_mushroom/textures/PC_Nightmare_Mushroom_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/pc_nightmare_mushroom/textures/PC_Nightmare_Mushroom_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/pc_nightmare_mushroom/textures/PC_Nightmare_Mushroom_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/running_animation/scene.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/running_animation/scene.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/running_animation/textures/farmer_test_3_default_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/._3dmodeller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/._Cow7.glb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/._mantis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/._pc_nightmare_mushroom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/._running_animation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/mantis/._scene.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/mantis/._scene.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/mantis/._textures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/mantis/textures/._lambert1_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/mantis/textures/._lambert1_metallicRoughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/mantis/textures/._lambert1_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/pc_nightmare_mushroom/._scene.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/pc_nightmare_mushroom/._scene.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/pc_nightmare_mushroom/._textures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/pc_nightmare_mushroom/textures/._PC_Nightmare_Mushroom_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/pc_nightmare_mushroom/textures/._PC_Nightmare_Mushroom_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/pc_nightmare_mushroom/textures/._PC_Nightmare_Mushroom_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/running_animation/._scene.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/running_animation/._scene.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/running_animation/._textures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/running_animation/textures/._farmer_test_3_default_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/Labyrinth/Labyrinth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/Labyrinth/js/labyrinth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/Labyrinth/js/tiltableTerrainHelpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/ammoShapes3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/js/ammoShapeHelpers3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/js/ammoShapes3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/bird1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/chocchip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/metal1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/metal_tread_plate1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/tile2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/wool_texture_knit_fabric.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/wool_texture_knit_fabric_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/.idea/del7-2019.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/ammoShapes4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/assets/audio/cat.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/assets/audio/cow.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/assets/audio/dog.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/convexAndText1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/fonts/helvetiker_regular.typeface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/gyngestolGltfTween1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/js/ammoShapeHelpers4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/js/ammoShapes4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/js/convexAndText1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/js/gyngestolGltfTween1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/js/morphTarget1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/js/tween1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/Cow7.glb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/Llama.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/Llama.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/gubbe.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/gubbe.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/male.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/male.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/misc_chair01.glb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/misc_chair01_col.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/pc_nightmare_mushroom/scene.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/pc_nightmare_mushroom/scene.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/pc_nightmare_mushroom/textures/PC_Nightmare_Mushroom_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/pc_nightmare_mushroom/textures/PC_Nightmare_Mushroom_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/pc_nightmare_mushroom/textures/PC_Nightmare_Mushroom_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/morphTarget1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/textures/bird1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/textures/metal1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/textures/tile1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/textures/tile2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del6-2020/tween1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderMaterial0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderMaterial1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderMaterialSimple0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderMaterialSimple1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderWater.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/Skybox1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/Skybox2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/assets/audio/cat.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/assets/audio/cow.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/assets/audio/dog.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/assets/audio/menumusic.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/nx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/ny.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/nz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/px.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/py.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/pz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/bird1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/chocchip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-xneg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-xpos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-yneg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-ypos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-zneg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-zpos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/metal1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/raindrop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/raindrop_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/raindrop_black_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/run1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/sprite-sheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/tree1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/warninglight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/water1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/water1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/water2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderMaterial0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderMaterial1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderMaterialSimple0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderMaterialSimple1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderWater.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/Skybox1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/Skybox2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/particles1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/sprite1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/particles1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/sprite1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/camFirstPerson1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/camFly1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/camOrbit1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/brickL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/brickS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/chocchip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/metal1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/plywood.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/rocks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/tex_water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/wood.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/js/camFirstPerson1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/js/camFly1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/js/camOrbit1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,46 +213,49 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Three/Swingdoors/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Three/eTestThree/textures" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\Three\eTestThree\textures" />
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\Three\eTestThree" />
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\WebGL\eTestWebGL" />
       <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\Three\Swingdoors\images" />
       <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\Three\Swingdoors\js" />
-      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\WebGL\karaktergivende\js" />
-      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\WebGL\karaktergivende" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\Three\tiltableTerrain1\js" />
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\Three\eTestThree" />
       <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\WebGL\karaktergivende\objectoriented\js" />
       <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\WebGL\karaktergivende\object oriented" />
       <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\WebGL\karaktergivende\functional" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.VillageOOP.html">
-    <configuration name="VillageOOP.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/WebGL/karaktergivende/objectoriented/VillageOOP.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="Labyrinth.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/Labyrinth/Labyrinth.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="ammoShapes2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del4-2020/ammoShapes2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="hingeTest0.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del3-2020/hingeTest0.html" useBuiltInWebServerPort="true">
+    <configuration name="convexAndText1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del6-2020/convexAndText1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="swingdoors.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/Swingdoors/swingdoors.html" useBuiltInWebServerPort="true">
+    <configuration name="tiltableTerrain1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/tiltableTerrain1/tiltableTerrain1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.VillageOOP.html" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.hingeTest0.html" />
-        <item itemvalue="JavaScript Debug.swingdoors.html" />
+        <item itemvalue="JavaScript Debug.Labyrinth.html" />
+        <item itemvalue="JavaScript Debug.tiltableTerrain1.html" />
         <item itemvalue="JavaScript Debug.ammoShapes2.html" />
+        <item itemvalue="JavaScript Debug.convexAndText1.html" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +279,11 @@
       <workItem from="1603038658889" duration="5369000" />
       <workItem from="1605212840879" duration="7784000" />
       <workItem from="1605514474756" duration="5636000" />
-      <workItem from="1605764486914" duration="439000" />
+      <workItem from="1605764486914" duration="8807000" />
+      <workItem from="1606370034903" duration="4529000" />
+      <workItem from="1606430269191" duration="1224000" />
+      <workItem from="1606543667127" duration="36000" />
+      <workItem from="1606543745827" duration="12047000" />
     </task>
     <task id="LOCAL−00001" summary="Misc.">
       <created>1601000054792</created>
@@ -178,10 +347,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="141" y="238" key="#Inspections/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1602817163061" />
-    <state x="705" y="292" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602714885760">
+    <state x="705" y="292" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606543683049">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="705" y="292" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1602714885760" />
+    <state x="705" y="292" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1606543683049" />
     <state width="1106" height="219" key="GridCell.Tab.0.bottom" timestamp="1601000520073">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -250,10 +419,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="158" y="292" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000069248" />
-    <state x="1141" y="0" width="914" height="1118" key="dock-window-1" timestamp="1602971210202">
+    <state x="1329" y="0" width="726" height="1118" key="dock-window-1" timestamp="1606556186429">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1141" y="0" width="914" height="1118" key="dock-window-1/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1602971210202" />
+    <state x="1329" y="0" width="726" height="1118" key="dock-window-1/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1606556186429" />
     <state x="229" y="262" key="run.anything.popup" timestamp="1601101217784">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
