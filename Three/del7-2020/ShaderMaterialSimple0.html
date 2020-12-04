@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="nb">
+	<head>
+		<title>Bruk av ShaderMaterial, Kule</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<canvas id="webgl" >
+			Denne nettleseren støtter ikke canvas-elementet!
+		</canvas>
+		<script type="module">
+			'use strict';
+			import {main} from "./js/ShaderMaterialSimple0.js";
+			main();
+		</script>
+		<!-- SHADERE FRA https://threejs.org/examples/webgl_custom_attributes.html -->
+		<!-- NB! shaderen utvides automatisk med variablene position, normal & color. Vi trenger ikke sende inn disse. -->
+		<script type="x-shader/x-vertex" id="vertexshader">
+			uniform float amplitude;
+
+			void main() {
+				vec3 newPosition = position + amplitude * normal;
+				gl_Position = projectionMatrix * modelViewMatrix * vec4( newPosition, 1.0 );
+			}
+		</script>
+
+		<script type="x-shader/x-fragment" id="fragmentshader">
+
+			void main() {
+				//Samme farge p� alle piksler:
+				gl_FragColor = vec4(0.6, 0.9, 0.3, 1);
+			}
+		</script>
+	</body>
+</html>

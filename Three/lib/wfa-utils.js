@@ -79,7 +79,7 @@ export function loadTerrain(file, callback) {
 //Lager heightmap-array basert påbilde (img).
 //Returnerer et array med en h�ydeverdi for hver piksel. Denne er beregnet som r+g+b / n;
 //Fra; https://github.com/mrdoob/three.js/issues/1003
-export function getHeightData(fileName, _width, _height, callback) {
+export function getHeightData(fileName, _width, _height, callback, pos) {
 	let canvas = document.createElement('canvas');
 	canvas.width = _width;
 	canvas.height = _height;
@@ -103,9 +103,9 @@ export function getHeightData(fileName, _width, _height, callback) {
 		//Gjennoml�per pix, piksel for piksel (i += 4). Setter heightData for hver piksel lik summen av fargen / 3 (f.eks.):
 		for (let i = 0, n = pix.length; i < n; i += (4)) {
 			let all = pix[i] + pix[i + 1] + pix[i + 2];
-			heightData[j++] = all / 3;
+			heightData[j++] = all / 60;
 		}
-		callback(heightData);
+		callback(heightData, pos);
 	};
 	//Starter nedlasting:
 	img.src = fileName;

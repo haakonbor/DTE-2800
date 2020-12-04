@@ -42,7 +42,7 @@ export function start(){
 
 	// Vilkårlig shape - bruk av btBvhTriangleMeshShape:
 	// Sylinder1:
-	let geometry = new THREE.CylinderBufferGeometry(8,8, 10, 32, 32);    // NB! Bruker BufferGeometry
+	let geometry = new THREE.CylinderBufferGeometry(16,16, 20, 32, 32, true);    // NB! Bruker BufferGeometry
 	let cylinderMesh = new THREE.Mesh(geometry, new THREE.MeshBasicMaterial({color: 0x000000, wireframe: true}));
 	cylinderMesh.position.set(-20,30, -20);
 	cylinderMesh.scale.set(0.3,0.3,0.3);

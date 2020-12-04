@@ -66,7 +66,7 @@ function loadGLTF() {
 		// Henter clip vha. index:
 		const firstClip = gltfModel.animations[0];
 		const action0 = animationMixer.clipAction( firstClip );
-		action0.play();
+		//action0.play();
 	});
 }
 
@@ -82,12 +82,12 @@ function loadObj() {
 	objModelMass = 110;
 	objModelStartPos = {x: -20, y:40, z: -30};
 	objModelScale = {x: 0.3, y: 0.3 , z:0.3};
-/*
+
 	objModelName = 'Llama';
 	objModelMass = 100;
 	objModelStartPos = {x: -20, y:40, z: -30};
 	objModelScale = {x: 3, y: 3 , z:3};
-*/
+
 	let  mtlLoader = new MTLLoader();
 	mtlLoader.load('models/' + objModelName + '.mtl', function (materials) {
 		materials.preload();

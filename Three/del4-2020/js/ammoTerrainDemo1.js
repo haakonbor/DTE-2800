@@ -19,7 +19,7 @@ import { TrackballControls } from '../../lib/three/examples/jsm/controls/Trackba
 let physicsWorld, scene, camera, renderer, tmpTrans, rigidBodies = [];
 let clock = new THREE.Clock();
 
-let TERRAIN_SIZE = 400;
+let TERRAIN_SIZE = 1000;
 let terrainMesh;
 let isTerrainHeightLoaded = false;
 let ammoHeightData = null;

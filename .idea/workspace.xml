@@ -20,169 +20,166 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93d05010-c3c4-4a14-956c-cecf988fb120" name="Default Changelist" comment="Directory name fix">
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/Cow7.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/mantis/scene.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/mantis/scene.gltf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/mantis/textures/lambert1_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/mantis/textures/lambert1_metallicRoughness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/mantis/textures/lambert1_normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/pc_nightmare_mushroom/scene.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/pc_nightmare_mushroom/scene.gltf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/pc_nightmare_mushroom/textures/PC_Nightmare_Mushroom_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/pc_nightmare_mushroom/textures/PC_Nightmare_Mushroom_emissive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/pc_nightmare_mushroom/textures/PC_Nightmare_Mushroom_normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/running_animation/scene.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/running_animation/scene.gltf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/3dmodeller/running_animation/textures/farmer_test_3_default_baseColor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/._3dmodeller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/._Cow7.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/._mantis" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/._pc_nightmare_mushroom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/._running_animation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/mantis/._scene.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/mantis/._scene.gltf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/mantis/._textures" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/mantis/textures/._lambert1_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/mantis/textures/._lambert1_metallicRoughness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/mantis/textures/._lambert1_normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/pc_nightmare_mushroom/._scene.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/pc_nightmare_mushroom/._scene.gltf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/pc_nightmare_mushroom/._textures" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/pc_nightmare_mushroom/textures/._PC_Nightmare_Mushroom_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/pc_nightmare_mushroom/textures/._PC_Nightmare_Mushroom_emissive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/pc_nightmare_mushroom/textures/._PC_Nightmare_Mushroom_normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/running_animation/._scene.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/running_animation/._scene.gltf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/running_animation/._textures" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/3dmodeller/__MACOSX/3dmodeller/running_animation/textures/._farmer_test_3_default_baseColor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/Labyrinth/Labyrinth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/Labyrinth/js/labyrinth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/Labyrinth/js/tiltableTerrainHelpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/ammoShapes3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/js/ammoShapeHelpers3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/js/ammoShapes3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/bird1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/chocchip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/metal1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/metal_tread_plate1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/tile2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/wool_texture_knit_fabric.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/textures/wool_texture_knit_fabric_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/.idea/del7-2019.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/ammoShapes4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/assets/audio/cat.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/assets/audio/cow.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/assets/audio/dog.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/convexAndText1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/fonts/helvetiker_regular.typeface.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/gyngestolGltfTween1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/js/ammoShapeHelpers4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/js/ammoShapes4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/js/convexAndText1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/js/gyngestolGltfTween1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/js/morphTarget1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/js/tween1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/Cow7.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/Llama.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/Llama.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/gubbe.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/gubbe.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/male.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/male.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/misc_chair01.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/misc_chair01_col.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/pc_nightmare_mushroom/scene.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/pc_nightmare_mushroom/scene.gltf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/pc_nightmare_mushroom/textures/PC_Nightmare_Mushroom_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/pc_nightmare_mushroom/textures/PC_Nightmare_Mushroom_emissive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/models/pc_nightmare_mushroom/textures/PC_Nightmare_Mushroom_normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/morphTarget1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/textures/bird1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/textures/metal1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/textures/tile1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/textures/tile2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del6-2020/tween1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderMaterial0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderMaterial1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderMaterialSimple0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderMaterialSimple1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderWater.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/Skybox1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/Skybox2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/assets/audio/cat.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/assets/audio/cow.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/assets/audio/dog.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/assets/audio/menumusic.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/nx.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/ny.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/nz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/px.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/py.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/pz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/bird1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/chocchip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-xneg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-xpos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-yneg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-ypos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-zneg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-zpos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/metal1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/raindrop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/raindrop_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/raindrop_black_32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/run.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/run1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/sprite-sheet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/tree1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/warninglight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/water.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/water1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/water1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/water2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderMaterial0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderMaterial1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderMaterialSimple0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderMaterialSimple1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderWater.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/Skybox1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/Skybox2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/particles1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/sprite1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/particles1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del7-2020/del7-2020/sprite1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/camFirstPerson1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/camFly1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/camOrbit1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/brickL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/brickS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/chocchip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/metal1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/plywood.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/rocks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/tex_water.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/images/wood.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/js/camFirstPerson1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/js/camFly1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three/del8-2020/del8-2020/js/camOrbit1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/Labyrinth/Labyrintspill.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/RudeGoldberg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/assets/ball-clack.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/assets/ding.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/assets/stardust-kjartan-abel.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/assets/terrain_map_rg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/assets/terrain_map_rg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/js/rudegoldberg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/js/rudegoldbergHelpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/models/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/models/scene.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/models/scene.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/models/textures/blinn2_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/blizzard_bk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/blizzard_dn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/blizzard_ft.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/blizzard_lf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/blizzard_rt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/blizzard_up.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/christmas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/heightmap3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/humble_bk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/humble_dn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/humble_ft.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/humble_lf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/humble_rt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/humble_up.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/marble.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/metal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/snowflake1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/snowflake2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/snowflake3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/snowflake4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/snowflake5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/tile2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/RudeGoldberg/textures/wood.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/ShaderMaterial0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/ShaderMaterial1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/ShaderMaterialSimple0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/ShaderMaterialSimple1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/ShaderWater.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/Skybox1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/Skybox2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/assets/audio/cat.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/assets/audio/cow.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/assets/audio/dog.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/assets/audio/menumusic.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/SwedishRoyalCastle/nx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/SwedishRoyalCastle/ny.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/SwedishRoyalCastle/nz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/SwedishRoyalCastle/px.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/SwedishRoyalCastle/py.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/SwedishRoyalCastle/pz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/SwedishRoyalCastle/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/bird1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/chocchip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/dawnmountain-xneg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/dawnmountain-xpos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/dawnmountain-yneg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/dawnmountain-ypos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/dawnmountain-zneg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/dawnmountain-zpos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/metal1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/raindrop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/raindrop_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/raindrop_black_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/run1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/snowflake1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/snowflake2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/snowflake3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/snowflake4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/snowflake5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/sprite-sheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/tree1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/warninglight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/water1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/water1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/images/water2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/js/ShaderMaterial0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/js/ShaderMaterial1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/js/ShaderMaterialSimple0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/js/ShaderMaterialSimple1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/js/ShaderWater.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/js/Skybox1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/js/Skybox2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/js/particles1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/js/sprite1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/particles1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three/del7-2020/sprite1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/Labyrinth/js/labyrinth.js" beforeDir="false" afterPath="$PROJECT_DIR$/Three/Labyrinth/js/labyrinth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/Labyrinth/js/tiltableTerrainHelpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/Three/Labyrinth/js/tiltableTerrainHelpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del3-2020/js/ammoHelpers1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Three/del3-2020/js/ammoHelpers1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del4-2020/js/ammoTerrainDemo1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Three/del4-2020/js/ammoTerrainDemo1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del5ammoShapes3/js/ammoShapes3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Three/del5ammoShapes3/js/ammoShapes3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del6-2020/js/ammoShapes4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Three/del6-2020/js/ammoShapes4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderMaterial0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderMaterial1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderMaterialSimple0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderMaterialSimple1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/ShaderWater.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/Skybox1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/Skybox2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/assets/audio/cat.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/assets/audio/cow.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/assets/audio/dog.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/assets/audio/menumusic.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/nx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/ny.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/nz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/px.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/py.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/pz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/SwedishRoyalCastle/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/bird1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/chocchip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-xneg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-xpos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-yneg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-ypos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-zneg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/dawnmountain-zpos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/metal1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/raindrop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/raindrop_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/raindrop_black_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/run1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/snowflake5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/sprite-sheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/tree1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/warninglight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/water.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/water1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/water1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/images/water2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderMaterial0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderMaterial1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderMaterialSimple0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderMaterialSimple1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/ShaderWater.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/Skybox1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/Skybox2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/particles1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/js/sprite1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/particles1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/del7-2020/del7-2020/sprite1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Three/lib/wfa-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/Three/lib/wfa-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,17 +210,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Three/eTestThree/textures" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Three/RudeGoldberg/textures" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\Three\RudeGoldberg\textures" />
+      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\Three\RudeGoldberg\js" />
       <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\Three\eTestThree\textures" />
       <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\Three\eTestThree" />
       <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\WebGL\eTestWebGL" />
-      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\Three\Swingdoors\images" />
-      <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\Three\Swingdoors\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\haako\OneDrive\Documents\Informatikk\DTE-2800 - Datamaskingrafikk\haakonbor.github.io\Three\tiltableTerrain1\js" />
@@ -234,28 +231,28 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="Labyrinth.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/Labyrinth/Labyrinth.html" useBuiltInWebServerPort="true">
+    <configuration name="RudeGoldberg.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/RudeGoldberg/RudeGoldberg.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="ammoShapes2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del4-2020/ammoShapes2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="convexAndText1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del6-2020/convexAndText1.html" useBuiltInWebServerPort="true">
+    <configuration name="ammoShapes4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del6-2020/ammoShapes4.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="tiltableTerrain1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/tiltableTerrain1/tiltableTerrain1.html" useBuiltInWebServerPort="true">
+    <configuration name="tween1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/haakonbor.github.io/Three/del6-2020/tween1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.Labyrinth.html" />
-        <item itemvalue="JavaScript Debug.tiltableTerrain1.html" />
+        <item itemvalue="JavaScript Debug.RudeGoldberg.html" />
+        <item itemvalue="JavaScript Debug.ammoShapes4.html" />
         <item itemvalue="JavaScript Debug.ammoShapes2.html" />
-        <item itemvalue="JavaScript Debug.convexAndText1.html" />
+        <item itemvalue="JavaScript Debug.tween1.html" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +280,13 @@
       <workItem from="1606370034903" duration="4529000" />
       <workItem from="1606430269191" duration="1224000" />
       <workItem from="1606543667127" duration="36000" />
-      <workItem from="1606543745827" duration="12047000" />
+      <workItem from="1606543745827" duration="12726000" />
+      <workItem from="1606677124343" duration="224000" />
+      <workItem from="1606677439554" duration="2161000" />
+      <workItem from="1606803574003" duration="14957000" />
+      <workItem from="1606906032874" duration="18556000" />
+      <workItem from="1606999973307" duration="28058000" />
+      <workItem from="1607076482529" duration="36360000" />
     </task>
     <task id="LOCAL−00001" summary="Misc.">
       <created>1601000054792</created>
@@ -347,89 +350,109 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="141" y="238" key="#Inspections/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1602817163061" />
-    <state x="705" y="292" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606543683049">
+    <state x="705" y="292" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607000013026">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state x="705" y="292" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1607000013026" />
     <state x="705" y="292" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1606543683049" />
-    <state width="1106" height="219" key="GridCell.Tab.0.bottom" timestamp="1601000520073">
+    <state width="1001" height="219" key="GridCell.Tab.0.bottom" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520073" />
-    <state width="1106" height="219" key="GridCell.Tab.0.center" timestamp="1601000520073">
+    <state width="1001" height="219" key="GridCell.Tab.0.center" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.0.center/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.0.center/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520073" />
-    <state width="1106" height="219" key="GridCell.Tab.0.left" timestamp="1601000520073">
+    <state width="1001" height="219" key="GridCell.Tab.0.left" timestamp="1606845439110">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.0.left/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439110" />
     <state width="1106" height="219" key="GridCell.Tab.0.left/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520073" />
-    <state width="1106" height="219" key="GridCell.Tab.0.right" timestamp="1601000520073">
+    <state width="1001" height="219" key="GridCell.Tab.0.right" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.0.right/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.0.right/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520073" />
-    <state width="1106" height="219" key="GridCell.Tab.1.bottom" timestamp="1601000520074">
+    <state width="1001" height="219" key="GridCell.Tab.1.bottom" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520074" />
-    <state width="1106" height="219" key="GridCell.Tab.1.center" timestamp="1601000520074">
+    <state width="1001" height="219" key="GridCell.Tab.1.center" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.1.center/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.1.center/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520074" />
-    <state width="1106" height="219" key="GridCell.Tab.1.left" timestamp="1601000520073">
+    <state width="1001" height="219" key="GridCell.Tab.1.left" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.1.left/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.1.left/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520073" />
-    <state width="1106" height="219" key="GridCell.Tab.1.right" timestamp="1601000520074">
+    <state width="1001" height="219" key="GridCell.Tab.1.right" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.1.right/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.1.right/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520074" />
-    <state width="1106" height="219" key="GridCell.Tab.2.bottom" timestamp="1601000520074">
+    <state width="1001" height="219" key="GridCell.Tab.2.bottom" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.2.bottom/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.2.bottom/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520074" />
-    <state width="1106" height="219" key="GridCell.Tab.2.center" timestamp="1601000520074">
+    <state width="1001" height="219" key="GridCell.Tab.2.center" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.2.center/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.2.center/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520074" />
-    <state width="1106" height="219" key="GridCell.Tab.2.left" timestamp="1601000520074">
+    <state width="1001" height="219" key="GridCell.Tab.2.left" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.2.left/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.2.left/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520074" />
-    <state width="1106" height="219" key="GridCell.Tab.2.right" timestamp="1601000520074">
+    <state width="1001" height="219" key="GridCell.Tab.2.right" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.2.right/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.2.right/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520074" />
-    <state width="1106" height="219" key="GridCell.Tab.3.bottom" timestamp="1601000520074">
+    <state width="1001" height="219" key="GridCell.Tab.3.bottom" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.3.bottom/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.3.bottom/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520074" />
-    <state width="1106" height="219" key="GridCell.Tab.3.center" timestamp="1601000520074">
+    <state width="1001" height="219" key="GridCell.Tab.3.center" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.3.center/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.3.center/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520074" />
-    <state width="1106" height="219" key="GridCell.Tab.3.left" timestamp="1601000520074">
+    <state width="1001" height="219" key="GridCell.Tab.3.left" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.3.left/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.3.left/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520074" />
-    <state width="1106" height="219" key="GridCell.Tab.3.right" timestamp="1601000520074">
+    <state width="1001" height="219" key="GridCell.Tab.3.right" timestamp="1606845439111">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="1001" height="219" key="GridCell.Tab.3.right/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1606845439111" />
     <state width="1106" height="219" key="GridCell.Tab.3.right/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000520074" />
     <state x="158" y="292" key="Vcs.Push.Dialog.v2" timestamp="1601000069248">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="158" y="292" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601000069248" />
-    <state x="1329" y="0" width="726" height="1118" key="dock-window-1" timestamp="1606556186429">
+    <state x="1192" y="0" width="862" height="1118" key="dock-window-1" timestamp="1607114930465">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state x="1188" y="0" width="866" height="1118" key="dock-window-1/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1607034917393" />
     <state x="1329" y="0" width="726" height="1118" key="dock-window-1/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1606556186429" />
+    <state x="1192" y="0" width="862" height="1118" key="dock-window-1/0.0.2048.1112/2560.0.2194.1194@0.0.2048.1112" timestamp="1607114930465" />
     <state x="229" y="262" key="run.anything.popup" timestamp="1601101217784">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="229" y="262" key="run.anything.popup/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1601101217784" />
-    <state x="686" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1602965737985">
+    <state x="686" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1607045171863">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state x="686" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.-382.2194.1194@0.0.2048.1112" timestamp="1607045171863" />
     <state x="686" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.-383.2194.1194@0.0.2048.1112" timestamp="1602965737985" />
   </component>
 </project>

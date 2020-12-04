@@ -1,5 +1,7 @@
 /*
-	Et "vippbart" terreng/plan.
+	Labyrintspill
+
+	Kode basert på "tiltableTerrain.js" av Werner Farstad. Endret koden slik at terrenget nå er et labyrintspill.
  */
 import * as THREE from "../../lib/three/build/three.module.js";
 import { TrackballControls } from '../../lib/three/examples/jsm/controls/TrackballControls.js';

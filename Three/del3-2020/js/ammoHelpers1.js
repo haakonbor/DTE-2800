@@ -169,7 +169,7 @@ export function createBall(scene, radius, pos, color, mass){
 export function createBox(scene, pos, color, mass, boxSize) {
 	// Inputkontroll:
 	if (!pos) pos = {x:0, y:25, z:0};
-	if (!mass) mass = 3;
+	if (!mass) mass = 30;
 	if (!color) color = '#00FF00';
 	if (!boxSize) boxSize = {width: 1, height: 1, depth:1};
 
